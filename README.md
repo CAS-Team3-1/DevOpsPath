@@ -5,6 +5,7 @@
 DevOps Prototype
 * Understanding DevOps by doing it :-)
 Änderung von Stefan
+Code von Stefan :-)
 Änderung von Thierry
 
 ## Required Tools
