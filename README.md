@@ -7,6 +7,7 @@ DevOps Prototype
 Änderung von Stefan
 Code von Stefan :-)
 Änderung von Thierry
+Neue Änderung für Jenkins
 
 ## Required Tools
 * Git (https://git-scm.com/)
