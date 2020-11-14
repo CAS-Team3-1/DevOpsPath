@@ -8,7 +8,10 @@ DevOps Prototype
 Code von Stefan :-)
 Änderung von Thierry
 Neue Änderung für Jenkins
+<<<<<<< HEAD
 Thierry Test Jenkins
+=======
+>>>>>>> bce4c84b826acf8b5d90cc3b57ce052739fd3275
 
 ## Required Tools
 * Git (https://git-scm.com/)
